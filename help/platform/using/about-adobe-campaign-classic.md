@@ -2,7 +2,7 @@
 solution: Campaign Classic
 product: campaign
 title: About Adobe Campaign Classic
-description: Discover key capabilities, user interface and global guidelines.
+description: Discover key capabilities, user interface and global guidelines
 audience: platform
 content-type: reference
 topic-tags: starting-with-adobe-campaign
